@@ -1,6 +1,6 @@
 import { useContext } from "react";
 import { MovieList } from "../../../components/movies/MovieList";
-import { Placeholder } from "../../../components/placeholder/placeholder";
+import { Placeholder } from "../../../components/placeholder/Placeholder";
 import { PageTitle } from "../../../components/page-title/PageTitle";
 import { MoviesContext } from "../../../context/movies/MoviesContext";
 
